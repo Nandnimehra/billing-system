@@ -1,0 +1,23 @@
+		**Welcome Customer**
+Bill Number: 531
+
+Customer Name:jatin
+
+Customer Phone Number:45856412
+
+=======================================================Product			Quantity			Price
+=======================================================
+Bath Soap			4			80 Rs
+Hair Gel			2			160 Rs
+Oil			3			300 Rs
+Sugar			1			140 Rs
+Maaza			3			150 Rs
+Dew			3			90 Rs
+Cococola			4			360 Rs
+-------------------------------------------------------
+Cosmetic Tax				28.799999999999997 Rs
+Grocery Tax				220.0 Rs
+Drink Tax				48.0 Rs
+
+Total Bill				1576.8
+-------------------------------------------------------
